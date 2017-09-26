@@ -3,8 +3,6 @@
 
 [WIP][BETA]-Material Design Music Player
 
-<a href='https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
-
 <a href='https://f-droid.org/repository/browse/?fdid=naman14.timber'><img alt='Get it on F-Droid' src='https://guardianproject.info/wp-content/uploads/2014/07/logo-fdroid.png' height=60px/></a>
 
 ## Screenshots
@@ -26,13 +24,6 @@
 - Browse device folders
 - Dark theme and UI customisability
 - Gestures for track switching
-- LastFM scrobble
-- Android Wear and Android Auto support
-- Playing queue in notification (Xposed)
-
-## Changelog
-
-Changelog is available [here](https://github.com/naman14/Timber/blob/master/Changelog.md)
 
 ## Credits
 
@@ -43,17 +34,3 @@ Changelog is available [here](https://github.com/naman14/Timber/blob/master/Chan
 * [CircularSeekBar](https://github.com/devadvance/circularseekbar)
 * [Nammu](https://github.com/tajchert/Nammu)
 
-#Donate
-Paypal donation email-
-namandwivedi14@gmail.com
-
-
-## License
-
->(c) 2015 Naman Dwivedi 
-
->This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
-
->This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
-
->You should have received a copy of the GNU General Public License along with this app. If not, see <https://www.gnu.org/licenses/>.
